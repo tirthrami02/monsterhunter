@@ -1,0 +1,57 @@
+#ola{
+    margin: 0 auto;
+    height: 50%;
+}
+
+body{
+    background-color: #003049;
+}
+
+#text
+{
+    background-color: #d62828;
+    color: white;
+    padding: 10px;
+    font-size: large;
+}
+
+#game{
+    max-width: 500px;
+    max-height: 400px;
+    background-color: #fcbf49;
+    color: black;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: large;
+}
+
+#controls{
+    max-width: 500px;
+    max-height: 400px;
+    background-color: #f77f00;
+    color: #f77f00;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px black solid;
+}
+
+#button1, #button2, #button3{
+    font-size: large;
+}
+#stats{
+    border: 1px black solid;
+    color: black;
+    padding: 5px;
+}
+
+#monsterStats{
+    display: none;
+    border: 1px black solid;
+    color: white;
+    padding: 5px;
+    background-color: red;
+}
+
+.stat{
+    padding-right: 10px;
+}
